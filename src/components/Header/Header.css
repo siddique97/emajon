@@ -1,0 +1,42 @@
+*{
+
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+.container{
+
+    width: 80%;
+    margin: auto;
+}
+.header_image{
+
+    width: 100%;
+    text-align: center;
+}
+
+.header_image img{
+
+    height: 80px;
+}
+
+nav{
+
+    width: 100%;
+    background: #000000;
+    line-height: 40px
+    
+}
+
+nav a{
+
+    color: #ffffff;
+    text-decoration: none;
+    margin-left: 10px;
+    font-family: 'Roboto';
+    padding:10px;
+}
+nav a:hover{
+
+    background: gray;
+}
