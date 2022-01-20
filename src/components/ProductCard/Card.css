@@ -1,0 +1,41 @@
+.card_box{
+
+    display: flex;
+    border-bottom: 1px solid lightgray;
+    margin-bottom: 10px;
+    padding-top: 10px;
+    margin-right: 5px;
+}
+.card_description{
+
+    margin-left: 5px;
+}
+.card_description h4{
+
+    color: blue;
+    font-weight: 400;
+    font-family:'Roboto';
+
+}
+.card_description,p{
+
+    margin-bottom: 5px;
+
+} 
+.btn{
+
+    width: 150px;
+    height: 30px;
+    background: goldenrod;
+    border: 1px solid gray;
+    border-radius: 5px;
+    outline: none;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0px 20px;
+}
+.fad{
+
+    color: #000000;
+}
